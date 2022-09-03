@@ -1,0 +1,18 @@
+Running Locally Via Github (no install)
+You can run this project locally by following these steps:
+
+1) Clone/download the repo (https://github.com/brentvollebregt/auto-py-to-exe)
+2) Open cmd/terminal and cd into the project
+3) Execute python -m pip install -r requirements.txt
+4) Now to run the application, execute python -m auto_py_to_exe. 
+A Chrome window in app mode will open with the project running inside.
+
+Make sure you are in the directory below auto_py_to_exe (you will be after step 3) when calling python -m auto_py_to_exe or you will need to reference the folder auto_py_to_exe absolutely/relatively to where you currently are.
+
+Using the Application
+Select your script location (paste in or use a file explorer)
+Outline will become blue when file exists
+Select other options and add things like an icon or other files
+Click the big blue button at the bottom to convert
+Find your converted files in /output when completed
+Easy.
